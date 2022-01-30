@@ -5,7 +5,7 @@ Authors: Tianmeng Chen, Julia Conroy, Xinjun Wang, Michelle Situ, Rami A. Namas,
 
 Link to the paper
 
-The raw scATAC-seq datasets in the FASTQ format with filtered peak/barcode matrix have been uploaded to the Gene Expression Omnibus (GEO) database: GSE162806. 
+The raw scATAC-seq datasets in the FASTQ format with filtered peak/barcode matrix have been uploaded to the Gene Expression Omnibus (GEO) database: GSE175694. 
 
 This repository provides the code for (1) generating and processing state-by-barcode matrix to evaluate global epigenetic alterations, and (2) chromatin state enrichment analysis we performed in the paper.
 For detailed instructions, please see the corresponding script.
